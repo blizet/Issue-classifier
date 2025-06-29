@@ -41,7 +41,7 @@ Mosaia is the primary AI provider used.
    ```bash
    git clone https://github.com/yourusername/issue-classifier.git
    cd issue-classifier
-````
+   ````
 
 2. Install dependencies:
 
