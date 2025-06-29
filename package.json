@@ -1,0 +1,16 @@
+{
+  "name": "issue-classifier",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A lightweight Node.js tool to classify GitHub issues into easy, medium, or difficult using AI with fallback between Mosaia and OpenRouter.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "blizet",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.0.0",
+    "openai": "^5.8.2"
+  }
+}
