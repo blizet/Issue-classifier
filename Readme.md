@@ -1,4 +1,4 @@
-````markdown
+
 # Issue Classifier
 
 A lightweight Node.js tool that uses AI models to classify GitHub issues by difficulty level: **easy**, **medium**, or **difficult**.  
@@ -105,5 +105,4 @@ node index.js
 ## License
 
 MIT License ©Blizet
-
 ```
