@@ -105,4 +105,3 @@ node index.js
 ## License
 
 MIT License ©Blizet
-```
