@@ -25,8 +25,7 @@ Mosaia is the primary AI provider used.
 - Visit [Mosaia](https://www.mosaia.io/)
 - Sign up or log in.
 - Navigate to your user dashboard at:  
-  `https://www.mosaia.ai/user/blizet/agent/Issue-classifier`  
-  *(Replace `blizet` with your username if different.)*
+  `https://www.mosaia.ai/user/blizet/agent/Issue-classifier` 
 - Create a new **Agent** for your project if you haven't already.
 - Copy the **Agent ID** (example: `6861a37adc8f3af29840e926`).
 - Create a new **App** within your Mosaia account to generate an **API Key**.
